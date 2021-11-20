@@ -6,7 +6,7 @@ $exemple de MVC-API
 ****
 #installation
 ****
-npm i 
+npm i express
 ****
 [express](npmjs.com/package/express): Version 6.14.15
 ****
