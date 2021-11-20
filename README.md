@@ -1,4 +1,4 @@
 ��# mvcapi,
-npm i express,
-node index.js
+installer: npm i express,
+dans le CMD écrire: node index.js
 
